@@ -1,0 +1,16 @@
+.copy_right_footer{
+    position:fixed;
+    color:white;
+    text-align:center;
+    bottom:0;
+    width:100%;
+    background-color:grey;
+    line-height:3px;
+
+}
+
+.heading_div{
+    background-color: rgba(56, 49, 49, 0.8);
+    border-radius: 15px;
+
+}
